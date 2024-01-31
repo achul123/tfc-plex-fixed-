@@ -11,6 +11,7 @@
   "hostid": "100",
   "______note": "default you have the option de and en if you put in language de its the german language and en the english",
   "language": "en",
+  "_note": "You can change the language with these choices: en, de and fr",
   "claiming": {
     "enabled": false,
     "coinsPerClaim": 20
